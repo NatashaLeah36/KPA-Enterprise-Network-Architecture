@@ -1,2 +1,2 @@
 # KPA-Enterprise-Network-Architecture
-A comprehensive network design project for Kenya Ports Authority (KPA), covering network topology, hardware and software configuration, security measures, and optimization strategies for high performance and reliability.
+A comprehensive network design project for Kenya Ports Authority (KPA), this project presents the design and simulation of a secure, scalable, and highly available enterprise network architecture for KPA.The design follows industry best practices including hierarchical network architecture, VLAN segmentation, Layer 3 switching, OSPF dynamic routing, and high availability mechanisms.
