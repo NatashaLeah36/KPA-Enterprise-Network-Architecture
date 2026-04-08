@@ -20,7 +20,7 @@ The Kenya Ports Authority (KPA) manages critical maritime operations, including 
 - **Gateway Redundancy (HSRP):** Always have a working default gateway
 - **EtherChannel:** Combine multiple links for speed and redundancy
 - **VLANs & Segmentation:** Organize and secure traffic
-- **Traffic Control (ACLs):** Filter and protect network traffic
+  
 
 ---
 
